@@ -1,3 +1,69 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h1{
+    font-size: 40px;
+}
+.heading{
+    text-align: center;
+}
+
+.top-profile{
+   display: flex;
+  
+
+}
+.left-profile-developer{
+    background-image:url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    box-shadow: 10px 10px 40px grey;
+    padding-bottom: 20%;
+
+}
+.CSE{
+    margin: 50px;
+}
+
+.mar-top{
+    padding-left: 100px;
+}
+.link-button{
+    margin-left: 800px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 50px;
+    
+}
+.Portfolio{
+    text-decoration: none;
+
+}
+.Blogs{text-decoration: none;}
+.tomato-color{
+    background-color:tomato;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px 25px;
+    margin:50px;
+
+}
+.address-information{
+    margin-left: 30%;
+}
+.About-continer{
+    box-shadow: 10px 10px 40px grey; 
+    margin: 100px 50px;  
+    
+}
+.add-inf{
+    padding: 1px 20px 1px 20px;
+}
+.logo-continer{
+    box-shadow: 10px 10px 40px grey; 
+    margin: 5px 40px 5px 5px;
+    padding: 25px;
+}
+.input-continer{
+background-color: bisque;
+}
